@@ -6,9 +6,9 @@ first we need to learn the basics of web technologist
 
 2. [Learn **Javascript** and Node.js](#learn-javascript)
 
-3. [Learn backend with Node.js]()
+3. [Learn backend with Node.js](#learn-javascript)
 
-4. Learn basics of Git/Github~~
+4. Learn basics of Git/Github
 <!-- 4. ~~[Learn basics of Git/Github]()~~ -->
 
 5. Learn Data structures and Algorisms
