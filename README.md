@@ -38,7 +38,7 @@ that can help us in learning and develop ourselves with the heights Quality and 
 
 | Course Name                                                                      | Source            | Duration |
 | -------------------------------------------------------------------------------- | ----------------- | -------- |
-| [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) | Elzero Web School | 10 Days  |
+| [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) | Elzero Web School | 14 Days  |
 | [CSS](https://www.youtube.com/watch?v=Z-5QVutAEW4)                               | Abdelrahman Gamal | 10 Days  |
 
 Then we will make a small _HTML CSS_ Project
