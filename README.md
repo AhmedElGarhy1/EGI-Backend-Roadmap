@@ -33,12 +33,13 @@ the answer is we should know what The Frontend developer do and what is the prob
 
 ### Resources
 
-And of course when we talk about HTML and CSS we should talk about Osama Elzero he have alot of ### Resources
+And of course when we talk about HTML and CSS we should mention Elzero Web School it has alot of **Resources**
 that can help us in learning and develop ourselves with the heights Quality and less Efforts
-|Course Name| Source | Duration|
-| ---|---|---|
-| [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) |Elzero Web School|10 Days|
-| [CSS](https://www.youtube.com/watch?v=Z-5QVutAEW4) | Abdelrahman Gamal|10 Days|
+
+| Course Name                                                                      | Source            | Duration |
+| -------------------------------------------------------------------------------- | ----------------- | -------- |
+| [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) | Elzero Web School | 10 Days  |
+| [CSS](https://www.youtube.com/watch?v=Z-5QVutAEW4)                               | Abdelrahman Gamal | 10 Days  |
 
 Then we will make a small _HTML CSS_ Project
 
