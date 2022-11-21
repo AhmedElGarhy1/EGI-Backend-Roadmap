@@ -8,15 +8,20 @@ first we need to learn the basics of web technologist
 
 3. [Learn backend with Node.js]()
 
-4. ~~[Learn basics of Git/Github]()~~
+4. Learn basics of Git/Github~~
+<!-- 4. ~~[Learn basics of Git/Github]()~~ -->
 
-5. ~~[Learn Data structures and Algorisms]()~~
+5. Learn Data structures and Algorisms
+<!-- 5. ~~[Learn Data structures and Algorisms]()~~ -->
 
-6. ~~[Learn Database with **MongoDB**]()~~
+6. Learn Database with **MongoDB**
+<!-- 6. ~~[Learn Database with **MongoDB**]()~~ -->
 
-7. ~~[Learn Websocket]()~~
+7. Learn Websocket
+<!-- 7. ~~[Learn Websocket]()~~ -->
 
-8. ~~[Learn GraphQL]()~~
+8. Learn GraphQL
+<!-- 8. ~~[Learn GraphQL]()~~ -->
 
 ---
 
