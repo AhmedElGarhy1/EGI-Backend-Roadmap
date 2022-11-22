@@ -4,7 +4,8 @@
 
 2. [Learn **Javascript** and Node.js](#learn-javascript)
 
-3. [Learn backend with Node.js](#learn-javascript)
+3. ~~[Learn backend with Node.js~~
+<!-- 3. [Learn backend with Node.js](#learn-javascript) -->
 
 4. ~~Learn basics of Git/Github~~
 <!-- 4. ~~[Learn basics of Git/Github]()~~ -->
@@ -51,7 +52,23 @@ So at the end if you know just Javascript you will be able to do a lot of awesom
 
 ### Resources
 
-| Course name                                                                                   | Source            | Duration |
-| --------------------------------------------------------------------------------------------- | ----------------- | -------- |
-| [Javascript Course](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | Elzero Web School | 2 months |
-| [Node.js Course](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9noGbruLWtprOPvjA4rjmC)    | MuhammedEssa      | 1 month  |
+From **_Elzero Web School_** in 3 months
+
+|                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| [Javascript Videos Course](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) |
+| [Javascript Tasks](https://elzero.org/study/javascript-bootcamp-2021-study-plan/)                    |
+
+By Follow Elzero Web school Javascript Roadmap we will learn the basics of The Language and some Advanced topics
+
+<!-- | Topic                        | Start | End | Source | Duration | Tasks                                                                                                                                                                    | Task Duration | Challenge Video                                                                                          | Challenge Duration |
+| ---------------------------- | ----- | --- | ------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | -------------------------------------------------------------------------------------------------------- | ------------------ |
+| Intro                        | 1     | 9   |        | 3 Days   | [Task 1](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/)                                                                                     | 2 Days        | ---                                                                                                      | ---                |
+| Data types and Operators     | 1     | 9   |        | 6 Days   | [Task 2-1](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017) [Task 2-2](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/) | 3 Days        | [22](https://www.youtube.com/watch?v=yCogS7sHyxk&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=22&t=29s) | 1 Day              |
+| Number and String Data Types | 1     | 9   |        | 3 Days   | [Task 3](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/)                                                                                     | 2 Days        |                                                                                                          | 1 Day              |
+| Intro                        | 1     | 9   |        | 3 Days   | [Task 4](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/)                                                                                     | 2 Days        |                                                                                                          | 1 Day              |
+| Intro                        | 1     | 9   |        | 3 Days   | [Task 5](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/)                                                                                     | 2 Days        |                                                                                                          | 1 Day              | -->
+
+<!-- | [Node.js Course](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9noGbruLWtprOPvjA4rjmC)    | MuhammedEssa      | 1 month  | ---    | -->
+
+---
