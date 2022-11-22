@@ -1,26 +1,24 @@
 # EGI Backend Roadmap
 
-first we need to learn the basics of web technologist
-
 1. [Learn the basics of **Frontend**](#learn-the-basics-of-frontend)
 
 2. [Learn **Javascript** and Node.js](#learn-javascript)
 
 3. [Learn backend with Node.js](#learn-javascript)
 
-4. Learn basics of Git/Github
+4. ~~Learn basics of Git/Github~~
 <!-- 4. ~~[Learn basics of Git/Github]()~~ -->
 
-5. Learn Data structures and Algorisms
+5. ~~Learn Data structures and Algorisms~~
 <!-- 5. ~~[Learn Data structures and Algorisms]()~~ -->
 
-6. Learn Database with **MongoDB**
+6. ~~Learn Database with **MongoDB**~~
 <!-- 6. ~~[Learn Database with **MongoDB**]()~~ -->
 
-7. Learn Websocket
+7. ~~Learn Websocket~~
 <!-- 7. ~~[Learn Websocket]()~~ -->
 
-8. Learn GraphQL
+8. ~~Learn GraphQL~~
 <!-- 8. ~~[Learn GraphQL]()~~ -->
 
 ---
