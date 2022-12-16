@@ -2,16 +2,16 @@
 
 1. [Learn the basics of **Frontend**](#learn-the-basics-of-frontend)
 
-2. [Learn **Javascript** and Node.js](#learn-javascript)
+2. [Learn **Javascript**](#learn-javascript)
 
-3. ~~[Learn backend with Node.js~~
+3. ~~Learn Data structures and Algorisms~~
+<!-- 5. ~~[Learn Data structures and Algorisms]()~~ -->
+
+4. ~~[Learn backend with Node.js~~
 <!-- 3. [Learn backend with Node.js](#learn-javascript) -->
 
-4. ~~Learn basics of Git/Github~~
+5. ~~Learn basics of Git/Github~~
 <!-- 4. ~~[Learn basics of Git/Github]()~~ -->
-
-5. ~~Learn Data structures and Algorisms~~
-<!-- 5. ~~[Learn Data structures and Algorisms]()~~ -->
 
 6. ~~Learn Database with **MongoDB**~~
 <!-- 6. ~~[Learn Database with **MongoDB**]()~~ -->
@@ -72,3 +72,7 @@ By Follow Elzero Web school Javascript Roadmap we will learn the basics of The L
 <!-- | [Node.js Course](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9noGbruLWtprOPvjA4rjmC)    | MuhammedEssa      | 1 month  | ---    | -->
 
 ---
+
+## Tasks
+
+1. [Task1](https://gratis-subway-4dc.notion.site/Task1-76232cd74b4844e391c70496f6fd072f)
