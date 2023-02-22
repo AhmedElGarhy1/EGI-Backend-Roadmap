@@ -2,24 +2,26 @@
 
 1. [Learn the basics of **Frontend**](#learn-the-basics-of-frontend)
 
-2. [Learn **Javascript**](#learn-javascript)
+2. [Tasks](#tasks)
 
-3. ~~Learn Data structures and Algorisms~~
+3. [Learn **Javascript**](#learn-javascript)
+
+4. ~~Learn Data structures and Algorisms~~
 <!-- 5. ~~[Learn Data structures and Algorisms]()~~ -->
 
-4. ~~[Learn backend with Node.js~~
+5. ~~[Learn backend with Node.js~~
 <!-- 3. [Learn backend with Node.js](#learn-javascript) -->
 
-5. ~~Learn basics of Git/Github~~
+6. ~~Learn basics of Git/Github~~
 <!-- 4. ~~[Learn basics of Git/Github]()~~ -->
 
-6. ~~Learn Database with **MongoDB**~~
+7. ~~Learn Database with **MongoDB**~~
 <!-- 6. ~~[Learn Database with **MongoDB**]()~~ -->
 
-7. ~~Learn Websocket~~
+8. ~~Learn Websocket~~
 <!-- 7. ~~[Learn Websocket]()~~ -->
 
-8. ~~Learn GraphQL~~
+9. ~~Learn GraphQL~~
 <!-- 8. ~~[Learn GraphQL]()~~ -->
 
 ---

@@ -1,0 +1,55 @@
+.card .image {
+  position: relative;
+  overflow: hidden;
+}
+.card .image:hover .layout {
+  top: 0;
+}
+.card .image .layout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s;
+}
+.card .image .layout div {
+  color: white;
+
+  font-weight: bold;
+  border: 2px solid white;
+  padding: 5px 10px;
+}
+
+.card .image .layout {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100% !important;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.349);
+}
+
+.card {
+  position: relative;
+}
+
+.featured {
+  position: absolute;
+  top: -12px;
+  left: 0;
+  z-index: 10;
+  color: white;
+  background-color: #ea713c;
+  padding: 3px 7px;
+}
+.featured div {
+  position: relative;
+}
+.featured div::before {
+  content: "";
+  position: absolute;
+  top: -4px;
+  left: 60px;
+
+  border: 14px solid transparent;
+  border-left-color: #ea713c;
+}

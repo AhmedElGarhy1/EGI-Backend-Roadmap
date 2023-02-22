@@ -1,0 +1,62 @@
+body {
+  background-color: #eee;
+}
+main {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+.cards {
+  display: flex;
+  gap: 20px;
+}
+.cards .card .image {
+  width: 100%;
+}
+.cards .card {
+  background-color: white;
+}
+.cards .image img {
+  width: 100%;
+}
+
+.cards .card .info {
+  /* padding-left: 10px;
+  padding-right: 10px; */
+  padding: 20px 10px 0;
+}
+
+.cards .card .info h2 {
+  margin-top: 0;
+}
+.cards .card .info p {
+  color: #7d7d7d;
+}
+.cards .card .info .icons {
+  display: flex;
+  gap: 10px;
+}
+
+.cards .card .info .icon > span {
+  font-weight: bold;
+}
+
+.cards .info .price {
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cards .info .price span:last-child {
+  font-size: 20px;
+  color: #7d7d7d;
+}
+
+.icon-shape {
+  color: #7d7d7d;
+  font-size: 20px;
+}
