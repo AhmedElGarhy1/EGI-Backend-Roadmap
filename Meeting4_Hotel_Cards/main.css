@@ -10,12 +10,14 @@ main {
 .cards {
   display: flex;
   gap: 20px;
-}
-.cards .card .image {
-  width: 100%;
+  justify-content: center;
 }
 .cards .card {
   background-color: white;
+  width: 330px;
+}
+.cards .card .image {
+  width: 100%;
 }
 .cards .image img {
   width: 100%;
