@@ -30,7 +30,7 @@ As you saw previously you have data we need to extract emails from so you will w
 ## How to achieve this goal?
 
 - Display the data in the console to see how it looks like
-- Try to see with is the common patterns between the emails like (does it always comes before the word `Hello`?)
+- Try to see what is the common patterns between the emails like (does it always comes before the word `Hello`?)
 - try to purify the emails from extra unneeded text
 - now you have the array containing all emails (repeated)
 - try to remove all repeated emails
